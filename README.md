@@ -1,4 +1,4 @@
-# ProManag
+# ProManage
 
 #Designed and developed a full-stack web application for managing team tasks with secure authentication and role-based dashboards. The project was built using Python Flask for backend logic and HTML/CSS for frontend presentation.
 
